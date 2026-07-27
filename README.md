@@ -1,18 +1,21 @@
 <div align="center">
 
-# Hi 👋, I'm Muhammad Hammad Bashir
+# 👋 Hi, I'm Muhammad Hammad Bashir
 
-### 🚀 AI Engineer | Computer Vision | Generative AI | Machine Learning Engineer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Vision+Engineer;Generative+AI+Engineer;LLM+%7C+RAG+Developer;Multimodal+AI+Specialist;Sports+Analytics+AI;OpenCV+%7C+PyTorch+%7C+YOLO" />
+### AI Engineer • Computer Vision • Generative AI • Machine Learning
 
 <p>
+Building production-ready AI systems for Computer Vision, LLMs, Multimodal AI, Sports Analytics, and AI Automation.
+</p>
+
+<p>
+
 <a href="https://www.linkedin.com/in/muhammad-hammad-bashir-6aaab7178/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://hammad-portfolio-pearl.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:hammad.compsci@gmail.com">
@@ -29,199 +32,94 @@
 
 ---
 
-# 💫 About Me
+## 🚀 About Me
 
-I'm an AI Engineer with **5+ years** of experience building production-ready AI systems.
-
-I specialize in:
-
-- 🧠 Computer Vision
-- 🤖 Machine Learning & Deep Learning
-- ✨ Generative AI
-- 💬 LLM Applications
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🎯 Multimodal AI
-- 📹 Video Analytics
+- 🎯 5+ years building AI products
+- 🤖 Computer Vision & Deep Learning
+- 🧠 Generative AI & LLM Applications
+- 📚 RAG & AI Agents
+- 🎥 Image & Video Analytics
 - ⚽ Sports Analytics
-- 📄 OCR & Document AI
-- 🚀 End-to-End AI Deployment
+- ☁️ Production AI Deployment
 
 ---
 
-# 💼 Professional Experience
-
-### AI Consultant (Computer Vision & Generative AI)
-
-- Neuromarketing AI
-- Advertisement Effectiveness Analysis
-- Emotion Recognition
-- Attention Prediction
-- Saliency Mapping
-- Diffusion Models
-- GANs
-- Vision Transformers
-
-### Computer Vision Engineer
-
-- Real-time Sports Analytics
-- Multi-camera Tracking
-- Pose Estimation
-- Ball Tracking
-- Player Tracking
-- Biomechanics
-- Event Detection
-
----
-
-# 🚀 Featured Projects
-
-⭐ Sports Analytics Platform
-
-⭐ CreativeScore AI
-
-⭐ Satellite Greenery Estimation
-
-⭐ AI Chatbots with RAG
-
-⭐ OCR & Document Intelligence
-
-⭐ Plant Counting using YOLOv8
-
-⭐ Face Recognition Systems
-
-⭐ Human Pose Estimation
-
-⭐ AI Video Analytics
-
----
-
-# 🛠 Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,bash,sqlite"/>
-
-</p>
-
----
-
-# 🤖 AI & Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
-
-</p>
-
-- YOLO
-- Detectron2
-- MMDetection
-- Segment Anything (SAM)
-- MediaPipe
-- Hugging Face
-- Scikit-learn
-
----
-
-# 🧠 Generative AI
-
-- GPT-4o
-- GPT-5
-- Llama
-- Gemini
-- Qwen
-- LangChain
-- LangGraph
-- OpenAI API
-- Pinecone
-- ChromaDB
-- FAISS
-
----
-
-# ⚙ Backend & Deployment
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,docker,aws,postgres,redis,git,github"/>
-
-</p>
-
-Also experienced with:
-
-- CUDA
-- TensorRT
-- ONNX Runtime
-- NGINX
-- Gunicorn
-- Celery
-
----
-
-# 📈 GitHub Stats
+## ⚡ Tech Stack
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,fastapi,docker,aws,postgres,redis,git,github,vscode"/>
 
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/YOLO-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/TensorRT-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/ONNX-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenAI-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gemini-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Llama-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pinecone-success?style=flat-square"/>
 
 </p>
 
 ---
 
-# 🌍 Areas of Expertise
+## ⭐ Featured Projects
 
-✅ Computer Vision
+### 🏃 RunTheOns — AI Sports Coach
+> AI-powered virtual sports coaching platform combining computer vision, biomechanics, sports science, and generative AI to analyze athlete performance from smartphone videos.
 
-✅ Deep Learning
-
-✅ Machine Learning
-
-✅ Large Language Models
-
-✅ Generative AI
-
-✅ Multimodal AI
-
-✅ OCR
-
-✅ Image Processing
-
-✅ Video Analytics
-
-✅ Object Detection
-
-✅ Instance Segmentation
-
-✅ Semantic Segmentation
-
-✅ Face Recognition
-
-✅ Pose Estimation
-
-✅ Tracking
-
-✅ AI Deployment
+🔗 https://github.com/MuhammadHammadBashir/runethons_program_python
 
 ---
 
-# 📫 Let's Connect
+### ⚽ AI Football Analytics
+> Real-time multi-camera sports analytics platform with player tracking, ball tracking, event detection, automated highlights, and coach reports.
 
-📧 Email: **hammad.compsci@gmail.com**
+🔗 https://github.com/MuhammadHammadBashir/AI-Powered-football-Analytics-System
 
-💼 LinkedIn
+---
 
-🌐 Portfolio
+### 🤖 Multi-Agent Content Creation
+> CrewAI-based financial news automation using autonomous AI agents for research, writing, and quality assurance.
 
-⭐ Feel free to explore my repositories and connect with me!
+🔗 https://github.com/MuhammadHammadBashir/content_creation_crew
+
+---
+
+### 📄 Resume Analyzer with LangChain
+> LLM-powered resume analysis, optimization, job matching, and LinkedIn job scraping.
+
+🔗 https://github.com/MuhammadHammadBashir/Resume_analyzer_using_langchain
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadHammadBashir&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHammadBashir&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=MuhammadHammadBashir&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+💼 LinkedIn  
+🌐 Portfolio  
+📧 hammad.compsci@gmail.com
+
+⭐ Always open to collaborating on AI, Computer Vision, and Generative AI projects.
