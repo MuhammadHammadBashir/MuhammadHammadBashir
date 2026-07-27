@@ -22,9 +22,14 @@ Building production-ready AI systems for Computer Vision, LLMs, Multimodal AI, S
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.fiverr.com/hammadlabs">
+<a href="https://www.fiverr.com/mumtaz535">
 <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
 </a>
+
+<a href="https://www.upwork.com/freelancers/hammad535">
+<img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
+
 
 </p>
 
