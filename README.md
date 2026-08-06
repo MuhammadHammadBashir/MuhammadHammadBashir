@@ -11,25 +11,28 @@ Building production-ready AI systems for Computer Vision, LLMs, Multimodal AI, S
 <p>
 
 <a href="https://www.linkedin.com/in/muhammad-hammad-bashir-6aaab7178/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://hammad-portfolio-pearl.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/watch?v=B_lfihy0Be0">
+  <img src="https://img.shields.io/badge/Intro%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="mailto:hammad.compsci@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.fiverr.com/mumtaz535">
-<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
 </a>
 
 <a href="https://www.upwork.com/freelancers/hammad535">
-<img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>
-
 
 </p>
 
